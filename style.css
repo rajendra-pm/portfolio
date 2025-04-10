@@ -129,7 +129,7 @@ body {
 }
 
 .image {
-    height: 350px;
+    height: 500px;
     opacity: 0;
     transform: translateY(30px);
     animation: moveup 2s linear forwards;
