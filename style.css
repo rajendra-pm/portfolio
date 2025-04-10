@@ -129,16 +129,9 @@ body {
 }
 
 .image {
-    height: 500px;
-    opacity: 0;
-    transform: translateY(30px);
-    animation: moveup 2s linear forwards;
-}
-@keyframes moveup {
-    100% {
-        opacity: 1;
-        transform: translateY(0);
-    }
+    border-radius: 35%;
+    margin-left: 0px;
+    margin-top: 0px;
 }
 
 
